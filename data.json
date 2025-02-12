@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "styles": [
+    {
+      "selectors": [
+        "#i4g5"
+      ],
+      "style": {
+        "margin": "100px 100px 25px",
+        "padding": "25px",
+        "font": "caption",
+        "text-align": "right"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "frames": [
+        {
+          "component": {
+            "type": "wrapper",
+            "stylable": [
+              "background",
+              "background-color",
+              "background-image",
+              "background-repeat",
+              "background-attachment",
+              "background-position",
+              "background-size"
+            ],
+            "components": [
+              {
+                "type": "text",
+                "attributes": {
+                  "id": "i4g5"
+                },
+                "components": [
+                  {
+                    "type": "textnode",
+                    "content": "\n        This is a demo content from _index.html. You can use this template file for\n        development purpose. It won't be stored in your git repository\n      "
+                  }
+                ]
+              }
+            ],
+            "head": {
+              "type": "head"
+            },
+            "docEl": {
+              "tagName": "html"
+            }
+          },
+          "id": "rM4nvtblsd0y5mh2"
+        }
+      ],
+      "id": "sdZEoZOVxsvxsypB"
+    }
+  ],
+  "symbols": [],
+  "dataSources": []
+}
