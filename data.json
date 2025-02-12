@@ -3,13 +3,13 @@
   "styles": [
     {
       "selectors": [
-        "#i42i"
+        "#iu8e"
       ],
       "style": {
         "margin": "100px 100px 25px",
         "padding": "25px",
         "font": "caption",
-        "text-align": "right"
+        "text-align": "center"
       }
     }
   ],
@@ -32,7 +32,7 @@
               {
                 "type": "text",
                 "attributes": {
-                  "id": "i42i"
+                  "id": "iu8e"
                 },
                 "components": [
                   {
@@ -49,10 +49,10 @@
               "tagName": "html"
             }
           },
-          "id": "d00O7ZGj4nGRb8T8"
+          "id": "sI7f0uNmZf6ociCU"
         }
       ],
-      "id": "oY1Ljw1PXBVzGJes"
+      "id": "AZ5MK1aspWaB9lFo"
     }
   ],
   "symbols": [],
